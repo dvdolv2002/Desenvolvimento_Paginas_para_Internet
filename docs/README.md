@@ -11,4 +11,4 @@ Programa para o curso de Desenvolvimento de Páginas para Internet
 - Adicionado animações com Javascript
 
 - Acesso em: https://github.com/dvdolv2002/Desenvolvimento_Paginas_para_Internet/
-- Figma em: https://www.figma.com/design/
+- Figma em: https://www.figma.com/
