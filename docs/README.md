@@ -10,11 +10,5 @@ Programa para o curso de Desenvolvimento de Páginas para Internet
 - Criação do design através da plataforma Figma: Utilização do Figma para criar e prototipar o design das páginas web, facilitando a visualização e o planejamento do layout.
 - Adicionado animações com Javascript
 
-- Acesso em: https://dvdolv2002.github.io/desenvolvimento-web-projeto/
+- Acesso em: https://github.com/dvdolv2002/Desenvolvimento_Paginas_para_Internet/
 - Figma em: https://www.figma.com/design/
-- 
-## Autor
-
- | [<img src="https://avatars1.githubusercontent.com/u/46221221?s=460&u=0d161e390cdad66e925f3d52cece6c3e65a23eb2&v=4" width=115><br><sub>@dvdolv2002</sub>](https://github.com/dvdolv2002) |
-  | :---: |
---------------------
